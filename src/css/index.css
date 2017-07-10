@@ -1,0 +1,7 @@
+.hoverableListItem{
+  border-bottom : 1px solid #eeeeee;
+}
+.hoverableListItem:hover{
+  cursor: pointer;
+  background-color:#dddddd;
+}
